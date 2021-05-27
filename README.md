@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![fortinux](https://circleci.com/gh/fortinux/CalculatorLibrary.svg?style=svg)](https://app.circleci.com/pipelines/github/fortinux/CalculatorLibrary)
 
 # CalculatorLibrary
 Just for CI/CD testing purposes
